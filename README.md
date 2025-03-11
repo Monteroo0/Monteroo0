@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Montero</h1>
-<h3 align="center">Hola, soy Juan Esteban Montero Arias, tengo 16 años, soy de Bogotá, actualmente vivo en Floridablanca, estoy en Campus Bucaramanga, pertenezco al grupo de U3, soy egresado del IESJ De La Salle, tengo muy pocos o casi nulos conocimientos en programación, y quiero aprender todo lo relacionado con la programación ya que es un ambiente que me gusta mucho, me gustan los videojuegos, y practico guitarra, me gusta ayudar a las demás personas y lograr grandes metas.</h3>
+<h3 align="center">Hello, my name is Juan Esteban Montero Arias. I am 16 years old and originally from Bogotá, though I currently reside in Floridablanca. I am a student at Campus Bucaramanga and part of the U3 group. I graduated from IESJ De La Salle. My knowledge of programming is minimal, but I am eager to learn everything related to it, as I find this field highly interesting. I have a strong passion for video games and enjoy playing the guitar. Additionally, I take great satisfaction in helping others and striving to achieve ambitious goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monteroo0&label=Profile%20views&color=0e75b6&style=flat" alt="monteroo0" /> </p>
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monteroo0&show_icons=true&locale=en" alt="monteroo0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monteroo0&" alt="monteroo0" /></p>
-
